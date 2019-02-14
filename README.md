@@ -1,3 +1,2 @@
-# hello-world
-First repository
-I am a student
+# Personal Repository
+For personal use
